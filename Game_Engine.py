@@ -8,10 +8,10 @@ G = 6.67e-11
 RP = 6.378e6
 MP = 5.972e24
 gravity = -9.8
-velocity = 10000
+velocity = 10
 angle = (45 * pi) / 180
 coeff_rest = 0.9
-coeff_drag = random.random()
+coeff_drag = 0#random.random()
 x = random.randint(1, 10)
 
 #----------------------------------Scene---------------------------------------
