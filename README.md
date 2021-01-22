@@ -63,6 +63,8 @@ scene.lights = []
 
 3)	Enjoy the simulation by providing game parameters like, intial angle of the ball, velocity, and even crazy gravity!
 
+![](https://github.com/sabneet95/Space-Basketball/blob/master/Space_Ball2.png)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
