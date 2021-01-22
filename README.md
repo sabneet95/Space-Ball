@@ -1,4 +1,4 @@
-# Space Ball - A basketball game
+# Space Ball - A basketball game?
 
 Space Ball is a Python-based graphical physics simulation of planetary motion and a somewhat engaging basketball game.
 
