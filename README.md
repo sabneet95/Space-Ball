@@ -1,11 +1,11 @@
 # Space Ball - A basketball game
 
-Space Ball is a Python-based Qt graphical instant messaging program utilizing the QUdpSocket for semi-secure peer-to-peer communications. 
+Space Ball is a Python-based graphical physics simulation of planetary motion and a somewhat engaging basketball game.
 
 ![](https://github.com/sabneet95/Space-Basketball/blob/master/Space_Ball.png)
 ![](https://github.com/sabneet95/Space-Basketball/blob/master/Space_Ball2.png)
 
-→ `In a transition from VPython 6 to 7 some of the game logic is finnacly, will be fixed at a later stage.`
+→ `In a transition from VPython 6 to 7, some of the game logic is finicky – may be fixed at a later stage.`
 
 ## Requirements
 
@@ -25,6 +25,9 @@ Visual Studio Code
 * OS: Windows_NT x64 10.0.19042
 * Memory: 1981M
 * Cores: 8
+
+Microsoft Edge
+* Version 89.0.767.0 (Official build) dev (64-bit)
 
 ## Usage
 
@@ -58,6 +61,8 @@ scene.lights = []
 2)	The game will open in a new browser window:
 
 ![](https://github.com/sabneet95/Space-Basketball/blob/master/Space_Ball_Intro.png)
+
+3)	Enjoy the simulation by providing game parameters like, intial angle of the ball, velocity, and even crazy gravity!
 
 ## Contributing
 
